@@ -1,0 +1,454 @@
+[
+  {
+    "id": 1,
+    "title": "Перший курс",
+    "previewVideo": "assets/preview.mp4",
+    "lessonAmount": 7,
+    "lessonDetails": [
+      {
+        "title": "1 урок",
+        "description": "Це перший урок і він про...",
+        "video": "assets/videoForLesson.mp4",
+        "isOpen": true
+      },
+      {
+        "title": "2 урок",
+        "description": "Це другий урок і він про...",
+        "video": "assets/videoForLesson.mp4",
+        "isOpen": false
+      },
+      {
+        "title": "3 урок",
+        "description": "Це третій урок і він про...",
+        "video": "assets/videoForLesson.mp4",
+        "isOpen": false
+      },
+      {
+        "title": "4 урок",
+        "description": "Це четвертий урок і він про...",
+        "video": "assets/videoForLesson.mp4",
+        "isOpen": false
+      },
+      {
+        "title": "5 урок",
+        "description": "Це п'ятий урок і він про...",
+        "video": "assets/videoForLesson.mp4",
+        "isOpen": false
+      },
+      {
+        "title": "6 урок",
+        "description": "Це п'ятий урок і він про...",
+        "video": "assets/videoForLesson.mp4",
+        "isOpen": false
+      },
+      {
+        "title": "7 урок",
+        "description": "Це п'ятий урок і він про...",
+        "video": "assets/videoForLesson.mp4",
+        "isOpen": false
+      }
+    ],
+    "skills": "Математика",
+    "rating": 4
+  },
+  {
+    "id": 2,
+    "title": "Другий курс",
+    "previewVideo": "assets/preview.mp4",
+    "lessonAmount": 5,
+    "lessonDetails": [
+      {
+        "title": "1 урок",
+        "description": "Це перший урок і він про...",
+        "video": "assets/videoForLesson.mp4",
+        "isOpen": true
+      },
+      {
+        "title": "2 урок",
+        "description": "Це другий урок і він про...",
+        "video": "assets/videoForLesson.mp4",
+        "isOpen": true
+      },
+      {
+        "title": "3 урок",
+        "description": "Це третій урок і він про...",
+        "video": "assets/videoForLesson.mp4",
+        "isOpen": true
+      },
+      {
+        "title": "4 урок",
+        "description": "Це четвертий урок і він про...",
+        "video": "assets/videoForLesson.mp4",
+        "isOpen": true
+      },
+      {
+        "title": "5 урок",
+        "description": "Це п'ятий урок і він про...",
+        "video": "assets/videoForLesson.mp4",
+        "isOpen": true
+      }
+    ],
+    "skills": "Математика",
+    "rating": 3
+  },
+  {
+    "id": 3,
+    "title": "Третій курс",
+    "previewVideo": "assets/preview.mp4",
+    "lessonAmount": 5,
+    "lessonDetails": [
+      {
+        "title": "1 урок",
+        "description": "Це перший урок і він про...",
+        "video": "assets/videoForLesson.mp4",
+        "isOpen": true
+      },
+      {
+        "title": "2 урок",
+        "description": "Це другий урок і він про...",
+        "video": "assets/videoForLesson.mp4",
+        "isOpen": true
+      },
+      {
+        "title": "3 урок",
+        "description": "Це третій урок і він про...",
+        "video": "assets/videoForLesson.mp4",
+        "isOpen": true
+      },
+      {
+        "title": "4 урок",
+        "description": "Це четвертий урок і він про...",
+        "video": "assets/videoForLesson.mp4",
+        "isOpen": true
+      },
+      {
+        "title": "5 урок",
+        "description": "Це п'ятий урок і він про...",
+        "video": "assets/videoForLesson.mp4",
+        "isOpen": true
+      }
+    ],
+    "skills": "Математика",
+    "rating": 3.5
+  },
+  {
+    "id": 4,
+    "title": "Четвертий курс",
+    "previewVideo": "assets/preview.mp4",
+    "lessonAmount": 5,
+    "lessonDetails": [
+      {
+        "title": "1 урок",
+        "description": "Це перший урок і він про...",
+        "video": "assets/videoForLesson.mp4",
+        "isOpen": true
+      },
+      {
+        "title": "2 урок",
+        "description": "Це другий урок і він про...",
+        "video": "assets/videoForLesson.mp4",
+        "isOpen": true
+      },
+      {
+        "title": "3 урок",
+        "description": "Це третій урок і він про...",
+        "video": "assets/videoForLesson.mp4",
+        "isOpen": true
+      },
+      {
+        "title": "4 урок",
+        "description": "Це четвертий урок і він про...",
+        "video": "assets/videoForLesson.mp4",
+        "isOpen": true
+      },
+      {
+        "title": "5 урок",
+        "description": "Це п'ятий урок і він про...",
+        "video": "assets/videoForLesson.mp4",
+        "isOpen": true
+      }
+    ],
+    "skills": "Математика",
+    "rating": 4.8
+  },
+  {
+    "id": 5,
+    "title": "П'ятий курс",
+    "previewVideo": "assets/preview.mp4",
+    "lessonAmount": 5,
+    "lessonDetails": [
+      {
+        "title": "1 урок",
+        "description": "Це перший урок і він про...",
+        "video": "assets/videoForLesson.mp4",
+        "isOpen": true
+      },
+      {
+        "title": "2 урок",
+        "description": "Це другий урок і він про...",
+        "video": "assets/videoForLesson.mp4",
+        "isOpen": true
+      },
+      {
+        "title": "3 урок",
+        "description": "Це третій урок і він про...",
+        "video": "assets/videoForLesson.mp4",
+        "isOpen": true
+      },
+      {
+        "title": "4 урок",
+        "description": "Це четвертий урок і він про...",
+        "video": "assets/videoForLesson.mp4",
+        "isOpen": true
+      },
+      {
+        "title": "5 урок",
+        "description": "Це п'ятий урок і він про...",
+        "video": "assets/videoForLesson.mp4",
+        "isOpen": true
+      }
+    ],
+    "skills": "Математика",
+    "rating": 4.2
+  },
+  {
+    "id": 6,
+    "title": "Шостий курс",
+    "previewVideo": "assets/preview.mp4",
+    "lessonAmount": 5,
+    "lessonDetails": [
+      {
+        "title": "1 урок",
+        "description": "Це перший урок і він про...",
+        "video": "assets/videoForLesson.mp4",
+        "isOpen": true
+      },
+      {
+        "title": "2 урок",
+        "description": "Це другий урок і він про...",
+        "video": "assets/videoForLesson.mp4",
+        "isOpen": true
+      },
+      {
+        "title": "3 урок",
+        "description": "Це третій урок і він про...",
+        "video": "assets/videoForLesson.mp4",
+        "isOpen": true
+      },
+      {
+        "title": "4 урок",
+        "description": "Це четвертий урок і він про...",
+        "video": "assets/videoForLesson.mp4",
+        "isOpen": true
+      },
+      {
+        "title": "5 урок",
+        "description": "Це п'ятий урок і він про...",
+        "video": "assets/videoForLesson.mp4",
+        "isOpen": true
+      }
+    ],
+    "skills": "Математика",
+    "rating": 3.95
+  },
+  {
+    "id": 7,
+    "title": "Сьомий курс",
+    "previewVideo": "assets/preview.mp4",
+    "lessonAmount": 5,
+    "lessonDetails": [
+      {
+        "title": "1 урок",
+        "description": "Це перший урок і він про...",
+        "video": "assets/videoForLesson.mp4",
+        "isOpen": true
+      },
+      {
+        "title": "2 урок",
+        "description": "Це другий урок і він про...",
+        "video": "assets/videoForLesson.mp4",
+        "isOpen": true
+      },
+      {
+        "title": "3 урок",
+        "description": "Це третій урок і він про...",
+        "video": "assets/videoForLesson.mp4",
+        "isOpen": true
+      },
+      {
+        "title": "4 урок",
+        "description": "Це четвертий урок і він про...",
+        "video": "assets/videoForLesson.mp4",
+        "isOpen": true
+      },
+      {
+        "title": "5 урок",
+        "description": "Це п'ятий урок і він про...",
+        "video": "assets/videoForLesson.mp4",
+        "isOpen": true
+      }
+    ],
+    "skills": "Математика",
+    "rating": 4.95
+  },
+  {
+    "id": 8,
+    "title": "Восьмий курс",
+    "previewVideo": "assets/preview.mp4",
+    "lessonAmount": 5,
+    "lessonDetails": [
+      {
+        "title": "1 урок",
+        "description": "Це перший урок і він про...",
+        "video": "assets/videoForLesson.mp4",
+        "isOpen": true
+      },
+      {
+        "title": "2 урок",
+        "description": "Це другий урок і він про...",
+        "video": "assets/videoForLesson.mp4",
+        "isOpen": true
+      },
+      {
+        "title": "3 урок",
+        "description": "Це третій урок і він про...",
+        "video": "assets/videoForLesson.mp4",
+        "isOpen": true
+      },
+      {
+        "title": "4 урок",
+        "description": "Це четвертий урок і він про...",
+        "video": "assets/videoForLesson.mp4",
+        "isOpen": true
+      },
+      {
+        "title": "5 урок",
+        "description": "Це п'ятий урок і він про...",
+        "video": "assets/videoForLesson.mp4",
+        "isOpen": true
+      }
+    ],
+    "skills": "Математика",
+    "rating": 1.2
+  },
+  {
+    "id": 9,
+    "title": "Дев'яти' курс",
+    "previewVideo": "assets/preview.mp4",
+    "lessonAmount": 5,
+    "lessonDetails": [
+      {
+        "title": "1 урок",
+        "description": "Це перший урок і він про...",
+        "video": "assets/videoForLesson.mp4",
+        "isOpen": true
+      },
+      {
+        "title": "2 урок",
+        "description": "Це другий урок і він про...",
+        "video": "assets/videoForLesson.mp4",
+        "isOpen": true
+      },
+      {
+        "title": "3 урок",
+        "description": "Це третій урок і він про...",
+        "video": "assets/videoForLesson.mp4",
+        "isOpen": true
+      },
+      {
+        "title": "4 урок",
+        "description": "Це четвертий урок і він про...",
+        "video": "assets/videoForLesson.mp4",
+        "isOpen": true
+      },
+      {
+        "title": "5 урок",
+        "description": "Це п'ятий урок і він про...",
+        "video": "assets/videoForLesson.mp4",
+        "isOpen": true
+      }
+    ],
+    "skills": "Математика",
+    "rating": 4.8
+  },
+  {
+    "id": 10,
+    "title": "Десятий курс",
+    "previewVideo": "https://i1.wp.com/antitreningi.ru/info/wp-content/uploads/2021/06/sozdanie-onlajn-kursa.png?fit=1000%2C500&ssl=1",
+    "lessonAmount": 5,
+    "lessonDetails": [
+      {
+        "title": "1 урок",
+        "description": "Це перший урок і він про...",
+        "video": "assets/videoForLesson.mp4",
+        "isOpen": true
+      },
+      {
+        "title": "2 урок",
+        "description": "Це другий урок і він про...",
+        "video": "assets/videoForLesson.mp4",
+        "isOpen": true
+      },
+      {
+        "title": "3 урок",
+        "description": "Це третій урок і він про...",
+        "video": "assets/videoForLesson.mp4",
+        "isOpen": true
+      },
+      {
+        "title": "4 урок",
+        "description": "Це четвертий урок і він про...",
+        "video": "assets/videoForLesson.mp4",
+        "isOpen": true
+      },
+      {
+        "title": "5 урок",
+        "description": "Це п'ятий урок і він про...",
+        "video": "assets/videoForLesson.mp4",
+        "isOpen": true
+      }
+    ],
+    "skills": "Математика",
+    "rating": 4.23
+  },
+  {
+    "id": 11,
+    "title": "Одинадцятий курс",
+    "previewVideo": "https://i1.wp.com/antitreningi.ru/info/wp-content/uploads/2021/06/sozdanie-onlajn-kursa.png?fit=1000%2C500&ssl=1",
+    "lessonAmount": 5,
+    "lessonDetails": [
+      {
+        "title": "1 урок",
+        "description": "Це перший урок і він про...",
+        "video": "assets/videoForLesson.mp4",
+        "isOpen": true
+      },
+      {
+        "title": "2 урок",
+        "description": "Це другий урок і він про...",
+        "video": "assets/videoForLesson.mp4",
+        "isOpen": true
+      },
+      {
+        "title": "3 урок",
+        "description": "Це третій урок і він про...",
+        "video": "assets/videoForLesson.mp4",
+        "isOpen": true
+      },
+      {
+        "title": "4 урок",
+        "description": "Це четвертий урок і він про...",
+        "video": "assets/videoForLesson.mp4",
+        "isOpen": true
+      },
+      {
+        "title": "5 урок",
+        "description": "Це п'ятий урок і він про...",
+        "video": "assets/videoForLesson.mp4",
+        "isOpen": true
+      }
+    ],
+    "skills": "Математика",
+    "rating": 5
+  }
+]
