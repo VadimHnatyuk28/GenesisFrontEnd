@@ -1,3 +1,4 @@
+//getting data from server/courses.json
 async function getData() {
   const response = await fetch("server/courses.json");
   const data = await response.json();
@@ -16,6 +17,8 @@ const historyResolver = (title, location) => {
   render(this.event.srcElement.attributes.id.value);
   // history.pushState({}, title, location);
 };
+
+// render content on course page
 
 async function render(id) {
   let postsData = await getData();
@@ -60,6 +63,8 @@ async function render(id) {
     }
   });
 
+  // acordion on page
+
   var acc = document.getElementsByClassName("accordion");
   var i;
 
@@ -74,6 +79,8 @@ async function render(id) {
       }
     });
   }
+
+  // local storage
   let formatData;
   let video = document.querySelectorAll(".vid");
   const LS = localStorage;
@@ -101,8 +108,6 @@ async function render(id) {
       formData[`lastSecond${cuurentSecond}`] = parseFloat(vid.currentTime);
       LS.setItem(currentValue, formData[currentValue]);
     });
-
-    // formDataJson = JSON.parse("", LS.getItem("formatData"));
 
     let formDataJson = LS;
 
