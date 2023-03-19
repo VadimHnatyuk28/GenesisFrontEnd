@@ -14,41 +14,8 @@ body {
   font-family: "Open Sans", sans-serif;
 }
 
-@media all and (max-width: 460px) {
-  .container-item__header {
-    font-size: 30px;
-  }
-  h2 {
-    font-size: 20px;
-  }
-}
-
-@media all and (max-width: 440px) {
-  .container-item__header {
-    font-size: 20px;
-  }
-  h2 {
-    font-size: 20px;
-  }
-  ..course-item__amount-of-lesson {
-    font-size: 20px;
-  }
-}
-
 .closed {
   background-color: #ff4646;
-}
-
-@media all and (max-width: 360px) {
-  .container-item__header {
-    font-size: 15px;
-  }
-  h2 {
-    font-size: 15px;
-  }
-  a {
-    width: 20px;
-  }
 }
 
 .container {
@@ -309,4 +276,47 @@ progress[value] {
 
 ::-webkit-scrollbar-track {
   background-color: #fff;
+}
+
+/* adaptive */
+
+@media all and (max-width: 505px) {
+  .course-item__header {
+    font-size: 35px;
+  }
+
+  .course-item__skills {
+    font-size: 25px;
+  }
+
+  .course-item__amount-of-lesson {
+    font-size: 25px;
+  }
+}
+
+@media all and (max-width: 460px) {
+  .container-item__header {
+    font-size: 25px;
+  }
+}
+
+@media all and (max-width: 440px) {
+  .container-item__header {
+    font-size: 20px;
+  }
+  h2 {
+    font-size: 20px;
+  }
+}
+
+@media all and (max-width: 360px) {
+  .container-item__header {
+    font-size: 15px;
+  }
+  h2 {
+    font-size: 15px;
+  }
+  a {
+    width: 20px;
+  }
 }
