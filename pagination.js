@@ -1,3 +1,4 @@
+//getting data from server/courses.json
 async function getData() {
   const response = await fetch("server/courses.json");
   const data = await response.json();

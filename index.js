@@ -27,7 +27,7 @@ async function render(id) {
           acordion = `<button class="accordion open" >${el.lessonDetails[index].title}</button>
         <div class="panel">
             <p>${el.lessonDetails[index].description}</p>
-            <video class="course-item__lesson-video vid" id="vid${index}" title="Щоб змінити швидкість відео натисніть Z або X" controls poster='https://img5.goodfon.ru/wallpaper/nbig/3/9c/space-planet-landscape-wallpapers-1920-x-1080.jpg'>
+            <video class="course-item__lesson-video vid" id="vid${index}${el.id}" title="Щоб змінити швидкість відео натисніть Z або X" controls poster='https://img5.goodfon.ru/wallpaper/nbig/3/9c/space-planet-landscape-wallpapers-1920-x-1080.jpg'>
             <source src="${el.lessonDetails[index].video}" type="video/mp4" />
             </video>
         </div>`;
